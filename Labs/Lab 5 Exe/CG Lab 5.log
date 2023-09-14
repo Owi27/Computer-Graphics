@@ -1,0 +1,124 @@
+﻿  CG Lab 5.cpp
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(37,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(38,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(39,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(40,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(61,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(62,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(63,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(64,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(268,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(275,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\MyMath.h(276,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(53,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(55,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(55,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(90,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(92,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(92,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(114,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(116,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(116,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(150,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(152,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(152,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(203,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(205,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(205,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(240,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(242,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(242,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(264,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(266,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(266,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(300,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(302,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(302,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(334,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(338,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(338,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(343,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(347,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(347,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(356,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(360,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(360,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(365,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(369,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(369,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(406,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(411,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(411,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(416,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(421,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(421,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(430,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(434,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(434,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(439,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(443,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(443,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(472,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(476,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(476,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(481,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(485,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(485,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(494,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(498,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(498,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(503,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(507,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(507,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(542,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(544,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(544,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(545,21): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(546,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(563,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(565,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(565,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(566,21): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(567,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(589,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(591,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(591,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(592,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(593,21): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(611,18): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(613,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(613,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(614,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(615,21): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(663,28): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(664,26): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(665,28): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(666,27): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(677,79): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(677,76): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(682,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(682,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(708,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(709,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(711,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(712,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(718,79): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(718,76): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(731,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(731,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(734,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\Rasterizer.h(734,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\CG Lab 5.cpp(28,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\CG Lab 5.cpp(35,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\CG Lab 5.cpp(68,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\CG Lab 5.cpp(102,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\CG Lab 5.cpp(103,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  RasterSurface.cpp
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\RasterSurface.cpp(109,29): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\RasterSurface.cpp(109,37): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  XTime.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 303 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CG Lab 5.vcxproj -> C:\Users\Owi\Downloads\New folder\Nicolas.Owens.CGLab5\CG Lab 5\x64\Release\CG Lab 5.exe

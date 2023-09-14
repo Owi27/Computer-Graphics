@@ -1,0 +1,31 @@
+﻿  CG Lab 1.cpp
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(40,21): warning C4838: conversion from 'size_t' to 'LONG' requires a narrowing conversion
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(40,21): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(40,32): warning C4838: conversion from 'size_t' to 'LONG' requires a narrowing conversion
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(40,32): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(40,45): warning C4838: conversion from 'size_t' to 'LONG' requires a narrowing conversion
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(40,45): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(40,64): warning C4838: conversion from 'size_t' to 'LONG' requires a narrowing conversion
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(40,64): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(51,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(68,94): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(68,77): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(135,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(135,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(136,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(136,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(137,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(137,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(170,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(171,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(172,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\CG Lab 1.cpp(173,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  RasterSurface.cpp
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\RasterSurface.cpp(109,29): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\RasterSurface.cpp(109,37): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  XTime.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 328 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CG Lab 1.vcxproj -> C:\Users\Owi\Downloads\New folder\OwensN-CGLab1\CG Lab 1\x64\Release\CG Lab 1.exe
